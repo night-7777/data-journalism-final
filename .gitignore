@@ -1,0 +1,10 @@
+# Temp / build files
+deploy/
+*.pyc
+__pycache__/
+gen_*.js
+gen_*.py
+
+# IDE
+.vscode/
+.idea/
