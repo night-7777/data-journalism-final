@@ -4,6 +4,11 @@ deploy/
 __pycache__/
 gen_*.js
 gen_*.py
+extract_*.py
+docx2pdf.py
+
+# Local-only test data
+/tmp_*/
 
 # IDE
 .vscode/
