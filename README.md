@@ -4,7 +4,9 @@
 
 ## 🔗 作品在线访问
 
-**👉 [点击这里打开可视化作品](https://604ad7e966da45e7b9927bbd5de18977.app.codebuddy.work)**
+**👉 [方式一：直接打开可视化作品（CloudStudio 部署版）](https://604ad7e966da45e7b9927bbd5de18977.app.codebuddy.work)**
+
+**👉 [方式二：GitHub Pages 版](https://night-7777.github.io/data-journalism-final/china-forest-wetland.html)**
 
 > 也可以直接打开本仓库里的 [`china-forest-wetland.html`](./china-forest-wetland.html)，用浏览器双击即可运行（需联网加载 ECharts CDN）。
 
